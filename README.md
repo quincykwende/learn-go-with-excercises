@@ -1,2 +1,2 @@
-# learn-go-with-excercises
+# learn-go-with-exercises
 Basic exercises with golang
